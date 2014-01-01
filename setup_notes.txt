@@ -1,0 +1,4 @@
+http://www.linuxcircle.com/2013/05/15/programming-and-uploading-arduino-sketch-without-ide/
+
+export PATH=$PATH:/usr/share/arduino
+ard-parse-boards --boards --boards_txt=/usr/share/arduino/hardware/arduino/boards.txt 
