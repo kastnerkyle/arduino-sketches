@@ -2,3 +2,4 @@ http://www.linuxcircle.com/2013/05/15/programming-and-uploading-arduino-sketch-w
 
 export PATH=$PATH:/usr/share/arduino
 ard-parse-boards --boards --boards_txt=/usr/share/arduino/hardware/arduino/boards.txt 
+http://arduino.cc/en/Reference/Libraries
