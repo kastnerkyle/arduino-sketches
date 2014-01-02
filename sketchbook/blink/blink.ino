@@ -10,3 +10,11 @@ void loop() {
   digitalWrite(13, HIGH);
   delay(1000);
 }
+
+int main() {
+    init();
+    setup();
+    while(true) {
+        loop();
+    }
+}

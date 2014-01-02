@@ -45,7 +45,7 @@ void loop() {
 
 int main(void) {
  
-//    init();
+    init();
 //    setup();
  
     while(true) {
